@@ -32,6 +32,7 @@ body{
 .user-links{
     text-decoration: none;
     color: inherit;
+    font-style: normal;
 }
 .user-list{
     list-style: none;
@@ -59,6 +60,7 @@ body{
 }
 .contacts{
     color: var(--font-color-header);
+    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -74,7 +76,6 @@ body{
 /* Main page main */
 .header{
     color: var(--font-color-header);
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.166;
     text-align: center;
@@ -95,7 +96,6 @@ body{
 }
 .kinds-header{
     color: var(--font-color-header);
-    font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.03em;
@@ -131,6 +131,7 @@ body{
 }
 .contacts-in-footer {
     color: var(--font-color-footer-contacts);
+    font-style: normal;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -171,7 +172,6 @@ body{
 
 .card-header{
     color: var(--font-color-header);
-    font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
